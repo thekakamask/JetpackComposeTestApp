@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Learn Together</string>
+    <string name="first_page_title">Jetpack Compose Tutorial</string>
+    <string name="all_tasks_completed">All tasks completed</string>
+    <string name="nice_work">Nice work!</string>
+    <string name="text_composable">Text composable</string>
+    <string name="displays_text_and">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="image_composable">Image composable</string>
+    <string name="row_composable">Row composable</string>
+    <string name="column_composable">Column composable</string>
+    <string name="a_layout_composable_that">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="a_layout_composable_that_2">A layout composable that places its children in a vertical sequence.</string>
+    <string name="creates_a_composable_that">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="happy_birthday_text">Happy Birthday Sam!</string>
+    <string name="signature_text">From Emma</string>
+</resources>
