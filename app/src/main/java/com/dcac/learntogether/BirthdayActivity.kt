@@ -40,7 +40,7 @@ class BirthdayActivity : ComponentActivity() {
                 Scaffold(modifier =  Modifier
                     .fillMaxSize()
                     .clickable {
-                        val intent = Intent(context, MainActivity::class.java)
+                        val intent = Intent(context, BusinessCardActivity::class.java)
                         context.startActivity(intent)
                     }
                 )  { innerPadding ->
